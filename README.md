@@ -5,7 +5,7 @@
 Goblin Hunter is a half-finished prototype game where the player explores a custom-built dungeon environment and clears enemies. Small goblins (currently represented by spheres) patrol the dungeon and will chase the player when they come within range, using Unity’s NavMesh system. The player can defend themselves using a pistol or a shotgun, while managing a basic health system.  
 
 ## Play the Game  
-A downloadable build is available on [Itch.io](https://your-itch-link-here).
+A downloadable build is available on [Itch.io](https://jake-dexter.itch.io/goblin-shooter).
 
 ## Features  
 - Fully custom-made dungeon environment and decorative assets  
