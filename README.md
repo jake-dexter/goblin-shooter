@@ -25,3 +25,6 @@ Goblin Hunter is a half-finished prototype game where the player explores a cust
 
 ## Status  
 This project is a prototype developed to explore environment design, AI behaviour, and shooting mechanics in Unity. No further development is planned.  
+
+## Download
+This project is available to download on itch.io at this link: https://jake-dexter.itch.io/goblin-shooter
